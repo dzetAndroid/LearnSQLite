@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学习SQLite</string>
+    <string name="cancel">取消</string>
+    <string name="dialog_fire_missiles">发射火箭？</string>
+    <string name="fire">发射</string>
+</resources>

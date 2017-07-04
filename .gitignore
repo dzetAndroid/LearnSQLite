@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+app/libs/
+app/src/main/java/com/zet/learnsqlite/adapter/
+app/src/main/res/drawable/
+libs/
+src/main/java/com/zet/learnsqlite/adapter/
+src/main/res/drawable/
